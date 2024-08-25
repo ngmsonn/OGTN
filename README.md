@@ -1,2 +1,2 @@
-# OBN
+# OGTN
 Obesity Targets Network
