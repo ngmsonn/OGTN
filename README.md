@@ -1,2 +1,2 @@
-# OGTN
-Obesity Targets Network
+# OGTN: Obesity - Gene Targets Network
+
