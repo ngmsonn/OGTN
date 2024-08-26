@@ -4,13 +4,12 @@ Members: Son Nguyen Manh¹, Phuong Do Hong², Bao Huynh Gia Kim², Hoan Duc Nguy
 ¹ Vietnam National University – University of Science, Ha Noi, Viet Nam. \
 ² University of Science and Technology of Hanoi, Ha Noi, Viet Nam. \
 
-Mục tiêu: \ 
+Mục tiêu: 
 <ol>
   <li>Mô hình hóa mạng tương tác protein-protein của các protein có liên quan tới bệnh béo phì 
 (bao gồm các protein không liên quan nhưng có tương tác với protein liên quan) </li>
-  <li>Second item</li>
-  <li>Third item</li>
-  <li>Fourth item</li>
+  <li>Mô hình hóa mạng tương tác protein-protein giữa các protein có liên quan tới bệnh béo phì. </li>
+  <li>Mô hình hóa mạng tương tác giữa thuốc và các protein liên quan tới bệnh béo phì.</li>
 </ol>
 
 
