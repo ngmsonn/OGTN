@@ -9,7 +9,7 @@ Mục tiêu:
   <li>Mô hình hóa mạng tương tác protein-protein của các protein có liên quan tới bệnh béo phì
 (bao gồm các protein không liên quan nhưng có tương tác với protein liên quan) </li>
   <li>Mô hình hóa mạng tương tác protein-protein giữa các protein có liên quan tới bệnh béo phì. </li>
-  <li>Mô hình hóa mạng tương tác giữa thuốc và các protein liên quan tới bệnh béo phì.</li>
+  <li>Mô hình hóa mạng tương tác giữa các protein liên quan tới bệnh béo phì và thuốc nhắm mục tiêu protein đó.</li>
 </ol>
 
 
