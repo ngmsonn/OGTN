@@ -13,5 +13,9 @@ Mục tiêu:
 </ol>
 
 Tiến trình:
+<ol>
+  <li> Hoàn thành xác 10224 gen liên quan tới bệnh béo phì từ cơ sở dữ liệu GeneCards</li>
+  <li> Đang thực hiện xây dựng dữ liệu tương tác giữa các gene liên quan tới bệnh béo phì. </li>
+</ol>
 
 
